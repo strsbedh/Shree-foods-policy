@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background: #f9f9f9;
+            color: #333;
+        }
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 20px;
+            background: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            border-radius: 10px;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        .last-updated {
+            font-size: 0.9em;
+            color: gray;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Privacy Policy</h1>
+    <p class="last-updated">Last Updated: April 2026</p>
+
+    <p>
+        This Privacy Policy explains how our Grocery App collects, uses, and protects your information.
+    </p>
+
+    <h2>1. Information We Collect</h2>
+    <p>
+        We do not require users to create an account. However, when placing an order, we collect the following information:
+    </p>
+    <ul>
+        <li>Name</li>
+        <li>Delivery Address</li>
+        <li>Phone Number</li>
+        <li>Order Details (products selected)</li>
+    </ul>
+
+    <h2>2. How We Use Your Information</h2>
+    <p>
+        The information you provide is used only to:
+    </p>
+    <ul>
+        <li>Process and manage your orders</li>
+        <li>Deliver products to your provided address</li>
+        <li>Contact you regarding your order if needed</li>
+    </ul>
+
+    <h2>3. Data Storage</h2>
+    <p>
+        Your order details and personal information are securely stored in our system and accessible only to the admin panel for order processing purposes.
+    </p>
+
+    <h2>4. Data Sharing</h2>
+    <p>
+        We do not sell, trade, or share your personal information with third parties, except as necessary to deliver your order.
+    </p>
+
+    <h2>5. Security</h2>
+    <p>
+        We take reasonable measures to protect your information from unauthorized access, misuse, or disclosure.
+    </p>
+
+    <h2>6. User Control</h2>
+    <p>
+        Since there are no user accounts, you may simply stop using the app if you do not wish to provide information.
+    </p>
+
+    <h2>7. Changes to This Policy</h2>
+    <p>
+        We may update this Privacy Policy from time to time. Changes will be posted on this page.
+    </p>
+
+    <h2>8. Contact Us</h2>
+    <p>
+        If you have any questions about this Privacy Policy, you may contact us at:
+        <br><br>
+        <strong>Email:</strong> your-email@example.com
+    </p>
+</div>
+
+</body>
+</html>
